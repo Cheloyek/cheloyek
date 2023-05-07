@@ -12,7 +12,6 @@
  
 ### 💻 Технологии:
 
-![React](https://img.shields.io/badge/-<MESSAGE>-<COLOR>)
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
