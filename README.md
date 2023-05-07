@@ -9,7 +9,7 @@
 - :mailbox: Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vladimir817vk@gmail.com) [![Discord Badge](https://img.shields.io/badge/-Discord-7289da?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/344122991518547978)
 
 ---
-
+ 
 ### 💻 Технологии:
 
 ![React](https://img.shields.io/badge/-<MESSAGE>-<COLOR>)
