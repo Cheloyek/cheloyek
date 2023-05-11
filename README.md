@@ -4,7 +4,7 @@
 
 ### Обо мне:
 
-Я frontend разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, получаю удовольствие от написания каждой строчки кода. В свободное время стараюсь изучать новые для меня технологии, 
+Я frontend разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, получаю удовольствие от написания каждой строчки кода. В свободное время стараюсь изучать новые для меня технологии
 
 - :mailbox: Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vladimir817vk@gmail.com) [![Discord Badge](https://img.shields.io/badge/-Discord-7289da?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/344122991518547978)
 
